@@ -1,7 +1,7 @@
 repo_name: abenteuerzeit/muBoard-Game-Pub
-report_id: e72c6458e76ce22ed2afa1db7ddac854
+report_id: 8cf1e436fecb9ab34271162a86e9d4fc
 repo_type: Public
-timestamp: '2023-11-12T10:27:20+00:00'
+timestamp: '2023-12-14T10:29:54+00:00'
 requested_by: abenteuerzeit
 provider: github
 branch: master
@@ -28,7 +28,8 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/6403/default_91fc1f0ee315262794273aa1387eaf8fed8436e6.png
-  detection_source_url: muBoard Game Pub/muBoard Game Pub.csproj
+  detection_source_url: https://github.com/abenteuerzeit/muBoard-Game-Pub/blob/master/muBoard
+    Game Pub/muBoard Game Pub.csproj
   detection_source: muBoard Game Pub/muBoard Game Pub.csproj
   last_updated_by: abenteuerzeit
   last_updated_on: 2022-10-14 20:15:39.000000000 Z
@@ -43,7 +44,8 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/11331/asp.net-core.png
-  detection_source_url: muBoard Game Pub/muBoard Game Pub.csproj
+  detection_source_url: https://github.com/abenteuerzeit/muBoard-Game-Pub/blob/master/muBoard
+    Game Pub/muBoard Game Pub.csproj
   detection_source: muBoard Game Pub/muBoard Game Pub.csproj
   last_updated_by: abenteuerzeit
   last_updated_on: 2022-10-14 20:15:39.000000000 Z
