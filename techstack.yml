@@ -1,7 +1,8 @@
 repo_name: abenteuerzeit/muBoard-Game-Pub
-report_id: 8cf1e436fecb9ab34271162a86e9d4fc
+report_id: e72c6458e76ce22ed2afa1db7ddac854
+version: 0.1
 repo_type: Public
-timestamp: '2023-12-14T10:29:54+00:00'
+timestamp: '2024-01-05T08:49:26+00:00'
 requested_by: abenteuerzeit
 provider: github
 branch: master
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1015/1200px-C_Sharp_wordmark.svg.png
+  detection_source_url: https://github.com/abenteuerzeit/muBoard-Game-Pub
   detection_source: Repo Metadata
 - name: ".NET Core"
   description: An Open Source, General-Purpose Development Platform Maintained by
@@ -57,6 +59,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/abenteuerzeit/muBoard-Game-Pub
   detection_source: Repo Metadata
 - name: Visual Studio
   description: State-of-the-art tools and services that you can use to create great
@@ -67,6 +70,8 @@ tools:
   category: Build, Test, Deploy
   sub_category: Integrated Development Environment
   image_url: https://img.stackshare.io/service/1451/SR2hUhQN.png
+  detection_source_url: https://github.com/abenteuerzeit/muBoard-Game-Pub/blob/master/muBoard
+    Game Pub.sln
   detection_source: muBoard Game Pub.sln
   last_updated_by: abenteuerzeit
   last_updated_on: 2022-10-14 20:15:39.000000000 Z
